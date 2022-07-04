@@ -1,0 +1,30 @@
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\obj\Debug\Clipping.csproj.AssemblyReference.cache
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\obj\Debug\App.g.cs
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\obj\Debug\MainWindow.baml
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\obj\Debug\Clipping.csproj.GenerateResource.cache
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\obj\Debug\Clipping.csproj.CoreCompileInputs.cache
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Škola\Počítačová grafika\PDU4\PDU4-Pavlovicova\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\bin\Debug\WpfApp1.exe.config
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\bin\Debug\WpfApp1.exe
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\bin\Debug\WpfApp1.pdb
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\obj\Debug\Clipping.csproj.AssemblyReference.cache
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\obj\Debug\MainWindow.g.cs
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\obj\Debug\App.g.cs
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\obj\Debug\MainWindow.baml
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\obj\Debug\WpfApp1.g.resources
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\obj\Debug\Clipping.csproj.GenerateResource.cache
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\obj\Debug\Clipping.csproj.CoreCompileInputs.cache
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\obj\Debug\WpfApp1.exe
+D:\Škola\1mMPG - Z\Počítačová grafika\PDU4\PDU4-Pavlovicova\Clipping\obj\Debug\WpfApp1.pdb

@@ -1,0 +1,22 @@
+﻿<Window x:Class="Clipping.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Clipping"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="930.4" Background="#FFCBC8C8">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="129*"/>
+            <ColumnDefinition Width="23*"/>
+        </Grid.ColumnDefinitions>
+        <Canvas x:Name="g" HorizontalAlignment="Left" Height="400" Margin="10,10,0,0" VerticalAlignment="Top" Width="652" Background="White" MouseLeftButtonDown="g_MouseLeftButtonDown" MouseMove="g_MouseMove" MouseRightButtonDown="g_MouseRightButtonDown" MouseDown="g_MouseDown"/>
+        <RadioButton x:Name="CohenSutherlandRB" Content="Cohen-Sutherland" HorizontalAlignment="Left" Margin="667,10,0,0" VerticalAlignment="Top" Width="117" IsChecked="True" Unchecked="CohenSutherlandRB_Unchecked" Checked="CohenSutherlandRB_Checked" Grid.ColumnSpan="2"/>
+        <RadioButton x:Name="CyrusBeckRB" Content="Cyrus-Beck" HorizontalAlignment="Left" Margin="667,34,0,0" VerticalAlignment="Top" Width="117" Grid.ColumnSpan="2"/>
+        <Button x:Name="RandomLinesButton" Content="Random Lines" HorizontalAlignment="Left" Margin="10,6,0,0" VerticalAlignment="Top" Width="117" Click="RandomLinesButton_Click" Grid.Column="1"/>
+        <Button x:Name="DelButton" Content="Delete" HorizontalAlignment="Left" Margin="10,30,0,0" VerticalAlignment="Top" Width="117" Click="DelButton_Click" Grid.Column="1"/>
+        <Label x:Name="Helper" Content="" HorizontalAlignment="Left" Margin="667,69,0,0" VerticalAlignment="Top" Height="341" Width="235" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>
